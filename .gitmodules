@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "hierarchicalDS"]
+	path = hierarchicalDS
+	url = https://github.com/cran/hierarchicalDS
+	shallow = true
+	registered = true
